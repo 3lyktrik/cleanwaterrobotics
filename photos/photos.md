@@ -51,4 +51,4 @@
 ![photo50](img_50.jpg)
 ![photo51](img_51.jpg)
 ![photo52](img_52.jpg)
-<img width="539" height="1249" alt="εικόνα" src="https://github.com/user-attachments/assets/4e0cd9ff-717d-4123-8fed-2122600b0c48" />
+
