@@ -51,4 +51,3 @@
 ![photo50](img_50.jpg)
 ![photo51](img_51.jpg)
 ![photo52](img_52.jpg)
-
