@@ -1,1 +1,10 @@
 ## Φωτογραφίες από την παρουσίαση του έργου στη 3η Γιορτή Δημιουργίας και Ψηφιακών Δεξιοτήτων "Ο Θε-ΤΑΛΩΣ συναντά τα e-trikala 3" και από την παρουσίαση στο σχολείο
+![photo1](thetalos_1.jpg)
+![photo2](thetalos_2.jpg)
+![photo3](thetalos_3.jpg)
+![photo4](thetalos_4.jpg)
+![photo5](thetalos_5.jpg)
+![photo6](thetalos_6.jpg)
+![photo7](thetalos_7.jpg)
+![photo8](thetalos_8.jpg)
+![photo9](thetalos_9.jpg)
