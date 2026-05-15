@@ -8,3 +8,7 @@
 ![photo7](thetalos_7.jpg)
 ![photo8](thetalos_8.jpg)
 ![photo9](thetalos_9.jpg)
+![photo10](sxoleio_1.jpg)
+![photo11](sxoleio_2.jpg)
+![photo12](sxoleio_3.jpg)
+![photo13](sxoleio_4.jpg)
