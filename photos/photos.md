@@ -75,3 +75,8 @@
 ![photo74](img_74.jpg)
 ![photo75](img_75.jpg)
 ![photo76](img_76.jpg)
+![photo77](img_77.jpg)
+![photo78](img_78.jpg)
+![photo79](img_79.jpg)
+![photo80](img_80.jpg)
+![photo81](img_81.jpg)
